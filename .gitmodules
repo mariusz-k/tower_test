@@ -1,3 +1,6 @@
 [submodule "dep1"]
 	path = dep1
 	url = https://github.com/mariusz-k/tower_test_dep1.git
+[submodule "dep2"]
+	path = dep2
+	url = https://github.com/mariusz-k/tower_test_dep2.git
